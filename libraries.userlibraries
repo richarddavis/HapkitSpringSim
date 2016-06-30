@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="box2d" systemlibrary="false">
+        <archive path="/SpringSimRefactor/lib/box2d/library/box2d_processing.jar"/>
+        <archive path="/SpringSimRefactor/lib/box2d/library/jbox2d-library-2.2.1-ds.jar"/>
+    </library>
+    <library name="controlP5" systemlibrary="false">
+        <archive path="/SpringSimRefactor/lib/controlP5/library/controlP5.jar"/>
+    </library>
+    <library name="core" systemlibrary="false">
+        <archive path="/SpringSimRefactor/lib/core/core.jar"/>
+        <archive path="/SpringSimRefactor/lib/core/gluegen-rt-natives-macosx-universal.jar"/>
+        <archive path="/SpringSimRefactor/lib/core/gluegen-rt.jar"/>
+        <archive path="/SpringSimRefactor/lib/core/jogl-all-natives-macosx-universal.jar"/>
+        <archive path="/SpringSimRefactor/lib/core/jogl-all.jar"/>
+    </library>
+    <library name="serialP5" systemlibrary="false">
+        <archive path="/SpringSimRefactor/lib/serial/library/jssc.jar"/>
+        <archive path="/SpringSimRefactor/lib/serial/library/serial.jar"/>
+    </library>
+</eclipse-userlibraries>
