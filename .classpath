@@ -7,6 +7,5 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/serialP5"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jssc"/>
-	<classpathentry kind="lib" path="libraries.userlibraries"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
