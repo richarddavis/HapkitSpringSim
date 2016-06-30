@@ -14,8 +14,14 @@
         <archive path="/SpringSimRefactor/lib/core/jogl-all-natives-macosx-universal.jar"/>
         <archive path="/SpringSimRefactor/lib/core/jogl-all.jar"/>
     </library>
+    <library name="jssc" systemlibrary="false">
+        <archive path="/Users/rleedvs/Documents/workspace/p5Libraries/jssc/jssc-2.8.0.jar"/>
+    </library>
     <library name="serialP5" systemlibrary="false">
-        <archive path="/SpringSimRefactor/lib/serial/library/jssc.jar"/>
         <archive path="/SpringSimRefactor/lib/serial/library/serial.jar"/>
+    </library>
+    <library name="serialP5Full" systemlibrary="false">
+        <archive path="/SpringSimNew/lib/serial/library/jssc.jar"/>
+        <archive path="/SpringSimNew/lib/serial/library/serial.jar"/>
     </library>
 </eclipse-userlibraries>
